@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg3914"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="git-cheat-sheet.svg">
+  <defs
+     id="defs3916" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="740.85546"
+     inkscape:cy="-113.44258"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3922"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="0.5mm"
+       spacingy="0.5mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3919">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.359)">
+    <g
+       id="g3120"
+       transform="matrix(1.3642461,0,0,1.3642461,-0.67148677,-303.62275)">
+      <rect
+         y="308.26453"
+         x="21.259842"
+         height="28.346457"
+         width="53.149609"
+         id="rect3755"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.17428425;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2983"
+         y="336.61096"
+         x="21.259842"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="336.61096"
+           x="21.259842"
+           id="tspan2985"
+           sodipodi:role="line">init </tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3757"
+         y="319.46997"
+         x="74.409447"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           style="font-size:12px;line-height:100%"
+           id="tspan3761"
+           y="319.46997"
+           x="74.409447"
+           sodipodi:role="line">make current</tspan><tspan
+           style="font-size:12px;line-height:100%"
+           id="tspan3765"
+           y="331.46997"
+           x="74.409447"
+           sodipodi:role="line">directory a repo</tspan></text>
+    </g>
+    <g
+       id="g3308"
+       transform="matrix(1.3642461,0,0,1.3642461,-324.53074,-160.03852)">
+      <g
+         transform="translate(237.40157,-118.86148)"
+         id="g3128">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19615047;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3755-1"
+           width="67.322838"
+           height="28.346457"
+           x="21.259842"
+           y="350.78418" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="21.259842"
+           y="379.13065"
+           id="text2983-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2985-4"
+             x="21.259842"
+             y="379.13065">add </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="88.58268"
+           y="363.34647"
+           id="text3757-0"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             x="88.58268"
+             y="363.34647"
+             id="tspan3765-4"
+             style="font-size:12px;line-height:100%">add files to the</tspan><tspan
+             sodipodi:role="line"
+             x="88.58268"
+             y="375.34647"
+             style="font-size:12px;line-height:100%"
+             id="tspan3806">next commit</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3808"
+         y="267.29016"
+         x="258.27771"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="267.29016"
+           x="258.27771"
+           id="tspan3810"
+           sodipodi:role="line">-A add ALL unstaged files</tspan><tspan
+           id="tspan3812"
+           y="278.54016"
+           x="258.27771"
+           sodipodi:role="line">-u add tracked unstaged files</tspan><tspan
+           id="tspan3814"
+           y="289.79016"
+           x="258.27771"
+           sodipodi:role="line">-i add unstaged files interactively</tspan></text>
+    </g>
+    <g
+       id="g3291"
+       transform="matrix(1.3642461,0,0,1.3642461,-333.29019,-224.58748)">
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="264.69843"
+         y="377.11398"
+         id="text3836"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3838"
+           x="264.69843"
+           y="377.11398">-a commit ALL staged files</tspan><tspan
+           sodipodi:role="line"
+           x="264.69843"
+           y="388.36398"
+           id="tspan3840">-m add a brief description</tspan><tspan
+           sodipodi:role="line"
+           x="264.69843"
+           y="399.61398"
+           id="tspan3842">omit -m for longer description</tspan></text>
+      <g
+         transform="translate(240.94489,-49.606301)"
+         id="g3136">
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="127.55905"
+           y="407.47711"
+           id="text3800"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3802"
+             x="127.55905"
+             y="407.47711">  </tspan></text>
+        <rect
+           y="388.8916"
+           x="24.176037"
+           height="28.346457"
+           width="131.10236"
+           id="rect3816"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.27372432;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3818"
+           y="417.23807"
+           x="24.176037"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="417.23807"
+             x="24.176037"
+             id="tspan3820"
+             sodipodi:role="line">commit </tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text3822"
+           y="401.45389"
+           x="155.2784"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             id="tspan3826"
+             style="font-size:12px;line-height:100%"
+             y="401.45389"
+             x="155.2784"
+             sodipodi:role="line">commit currently</tspan><tspan
+             style="font-size:12px;line-height:100%"
+             y="413.45389"
+             x="155.2784"
+             sodipodi:role="line"
+             id="tspan3834">staged changes </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="178.17767"
+           y="420.16803"
+           id="text3858"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3860"
+             x="178.17767"
+             y="420.16803">  </tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3250"
+       transform="matrix(1.3642461,0,0,1.3642461,-352.60446,-257.72514)">
+      <g
+         transform="translate(255.11811,-42.519677)"
+         id="g3162">
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="56.844769"
+           y="578.85223"
+           id="text3828"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3830"
+             x="56.844769"
+             y="578.85223"> </tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3844"
+           y="584.64246"
+           x="127.55905"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="584.64246"
+             x="127.55905"
+             id="tspan3846"
+             sodipodi:role="line">  </tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.30520487;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3848"
+           width="162.99213"
+           height="28.346457"
+           x="24.176035"
+           y="566.05695" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="24.176035"
+           y="594.40344"
+           id="text3850"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3852"
+             x="24.176035"
+             y="594.40344">checkout</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="187.16815"
+           y="580.23016"
+           id="text3862"
+           sodipodi:linespacing="100%"><tspan
+             id="tspan3866"
+             sodipodi:role="line"
+             x="187.16815"
+             y="580.23016"
+             style="font-size:12px;line-height:100%">change current</tspan><tspan
+             sodipodi:role="line"
+             x="187.16815"
+             y="592.23016"
+             style="font-size:12px;line-height:100%"
+             id="tspan3870">active branch </tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3045"
+         y="558.79492"
+         x="279.14154"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="558.79492"
+           x="279.14154"
+           id="tspan3047"
+           sodipodi:role="line">&lt;branchname&gt; to change branches</tspan><tspan
+           id="tspan3055"
+           y="570.04492"
+           x="279.14154"
+           sodipodi:role="line">-b &lt;new_name&gt; &lt;commit_name&gt;</tspan><tspan
+           id="tspan3059"
+           y="581.29492"
+           x="279.14154"
+           sodipodi:role="line">       starts a new branch at commit</tspan><tspan
+           id="tspan3061"
+           y="592.54492"
+           x="279.14154"
+           sodipodi:role="line">       and immediately check it out</tspan><tspan
+           id="tspan3136"
+           y="603.79492"
+           x="279.14154"
+           sodipodi:role="line">HEAD &lt;file&gt; discard local changes to &lt;file&gt;</tspan></text>
+    </g>
+    <g
+       id="g3230"
+       transform="matrix(1.3642461,0,0,1.3642461,-4.5596272,-13.680943)">
+      <g
+         id="g3174">
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="56.844765"
+           y="642.63177"
+           id="text3063"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3065"
+             x="56.844765"
+             y="642.63177"> </tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3067"
+           y="648.422"
+           x="127.55905"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="648.422"
+             x="127.55905"
+             id="tspan3069"
+             sodipodi:role="line">  </tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.30660695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3071"
+           width="124.01575"
+           height="37.598427"
+           x="24.176033"
+           y="629.83649" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="24.176033"
+           y="658.18298"
+           id="text3073"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3075"
+             x="24.176033"
+             y="658.18298">merge</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="178.17767"
+           y="625.67981"
+           id="text3077"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3079"
+             x="178.17767"
+             y="625.67981">  </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="148.19179"
+           y="644.0097"
+           id="text3081"
+           sodipodi:linespacing="100%"><tspan
+             id="tspan3085"
+             sodipodi:role="line"
+             x="148.19179"
+             y="644.0097"
+             style="font-size:12px;line-height:100%">merge two</tspan><tspan
+             sodipodi:role="line"
+             x="148.19179"
+             y="656.0097"
+             style="font-size:12px;line-height:100%"
+             id="tspan3089">branches</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="24.02273"
+         y="674.03058"
+         id="text3091"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan3110"
+           sodipodi:role="line"
+           x="24.02273"
+           y="674.03058">&lt;branch&gt; merges branch into current and commits</tspan><tspan
+           id="tspan3114"
+           sodipodi:role="line"
+           x="24.02273"
+           y="685.28058">&lt;branch&gt; --no-commit merges but does not commit </tspan><tspan
+           id="tspan3138"
+           sodipodi:role="line"
+           x="24.02273"
+           y="696.53058">mergetool instead of merge opens conflicting files </tspan><tspan
+           id="tspan3140"
+           sodipodi:role="line"
+           x="24.02273"
+           y="707.78058">       in your merge program</tspan></text>
+    </g>
+    <g
+       id="g3269"
+       transform="matrix(1.3642461,0,0,1.3642461,-275.0808,-238.60782)">
+      <g
+         transform="translate(205.35996,-50.902696)"
+         id="g3148">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3872"
+           y="479.63965"
+           x="49.758148"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="479.63965"
+             x="49.758148"
+             id="tspan3874"
+             sodipodi:role="line"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="120.47244"
+           y="485.42987"
+           id="text3876"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3878"
+             x="120.47244"
+             y="485.42987">  </tspan></text>
+        <rect
+           y="466.84439"
+           x="17.089415"
+           height="28.346457"
+           width="124.01575"
+           id="rect3880"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26622361;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3882"
+           y="495.19086"
+           x="17.089415"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="495.19086"
+             x="17.089415"
+             id="tspan3884"
+             sodipodi:role="line">branch</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3886"
+           y="462.68771"
+           x="171.09106"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="462.68771"
+             x="171.09106"
+             id="tspan3888"
+             sodipodi:role="line">  </tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text3890"
+           y="481.01758"
+           x="141.10516"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             id="tspan3894"
+             style="font-size:12px;line-height:100%"
+             y="481.01758"
+             x="141.10516"
+             sodipodi:role="line">branch info/</tspan><tspan
+             style="font-size:12px;line-height:100%"
+             y="493.01758"
+             x="141.10516"
+             sodipodi:role="line"
+             id="tspan3043">functionality</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3116"
+         y="451.19928"
+         x="222.31627"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="451.19928"
+           x="222.31627"
+           sodipodi:role="line"
+           id="tspan3120">no switches lists local branches</tspan><tspan
+           id="tspan3126"
+           y="462.44928"
+           x="222.31627"
+           sodipodi:role="line">-r lists remote branches</tspan><tspan
+           id="tspan3128"
+           y="473.69928"
+           x="222.31627"
+           sodipodi:role="line">-a lists all branches</tspan><tspan
+           id="tspan3130"
+           y="484.94928"
+           x="222.31627"
+           sodipodi:role="line">&lt;branch&gt; start new branch at current point</tspan><tspan
+           id="tspan3132"
+           y="496.19928"
+           x="222.31627"
+           sodipodi:role="line">&lt;branch&gt; &lt;start_point&gt; start new branch at </tspan><tspan
+           id="tspan3134"
+           y="507.44928"
+           x="222.31627"
+           sodipodi:role="line">       &lt;start_point&gt;</tspan></text>
+    </g>
+    <g
+       id="g3321"
+       transform="matrix(1.3642461,0,0,1.3642461,-835.79062,200.1653)">
+      <g
+         id="g3216">
+        <text
+           sodipodi:linespacing="125%"
+           id="text3142"
+           y="287.00467"
+           x="666.14172"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="287.00467"
+             x="666.14172"
+             id="tspan3144"
+             sodipodi:role="line"> </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="736.85608"
+           y="292.79489"
+           id="text3146"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3148"
+             x="736.85608"
+             y="292.79489">  </tspan></text>
+        <rect
+           y="274.20938"
+           x="633.47302"
+           height="37.598427"
+           width="124.01575"
+           id="rect3150"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.30660695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3152"
+           y="302.55588"
+           x="633.47302"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="302.55588"
+             x="633.47302"
+             id="tspan3154"
+             sodipodi:role="line">remote</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3156"
+           y="270.0527"
+           x="787.47467"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="270.0527"
+             x="787.47467"
+             id="tspan3158"
+             sodipodi:role="line">  </tspan></text>
+        <text
+           sodipodi:linespacing="100%"
+           id="text3160"
+           y="288.3826"
+           x="757.48877"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             id="tspan3164"
+             style="font-size:12px;line-height:100%"
+             y="288.3826"
+             x="757.48877"
+             sodipodi:role="line">remote repo</tspan><tspan
+             style="font-size:12px;line-height:100%"
+             y="300.3826"
+             x="757.48877"
+             sodipodi:role="line"
+             id="tspan3178">functions</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3166"
+         y="318.52216"
+         x="633.3197"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="318.52216"
+           x="633.3197"
+           sodipodi:role="line"
+           id="tspan3174">add origin git@github.com:&lt;account_name&gt;/&lt;repo_name&gt;.git</tspan><tspan
+           id="tspan3189"
+           y="329.77216"
+           x="633.3197"
+           sodipodi:role="line">       connects the current branch to a remote repo. Must create</tspan><tspan
+           id="tspan3191"
+           y="341.02216"
+           x="633.3197"
+           sodipodi:role="line">       remote repo via the website first!!!</tspan><tspan
+           id="tspan3193"
+           y="352.27216"
+           x="633.3197"
+           sodipodi:role="line">-v views remote repository information</tspan><tspan
+           id="tspan3197"
+           y="363.52216"
+           x="633.3197"
+           sodipodi:role="line">rm &lt;remote&gt; deletes remote repo connection (server left untouched)</tspan></text>
+    </g>
+    <g
+       id="g3342"
+       transform="matrix(1.3642461,0,0,1.3642461,-822.3515,75.94552)">
+      <g
+         id="g3202">
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="656.29083"
+           y="473.42197"
+           id="text3201"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3203"
+             x="656.29083"
+             y="473.42197"> </tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3205"
+           y="479.21219"
+           x="727.00513"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           xml:space="preserve"><tspan
+             y="479.21219"
+             x="727.00513"
+             id="tspan3207"
+             sodipodi:role="line">  </tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.30660695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3209"
+           width="85.666519"
+           height="37.598427"
+           x="623.62207"
+           y="460.62668" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="623.62207"
+           y="488.97318"
+           id="text3211"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3213"
+             x="623.62207"
+             y="488.97318">push</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="777.62372"
+           y="456.47"
+           id="text3215"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3217"
+             x="777.62372"
+             y="456.47">  </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           x="709.28864"
+           y="474.7999"
+           id="text3219"
+           sodipodi:linespacing="100%"><tspan
+             id="tspan3223"
+             sodipodi:role="line"
+             x="709.28864"
+             y="474.7999"
+             style="font-size:12px;line-height:100%">push updates</tspan><tspan
+             sodipodi:role="line"
+             x="709.28864"
+             y="486.7999"
+             style="font-size:12px;line-height:100%"
+             id="tspan3239">to remote repo</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="623.18311"
+         y="504.93066"
+         id="text3225"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="623.18311"
+           y="504.93066"
+           id="tspan3235">&lt;remote&gt; &lt;branch&gt; pushes from &lt;branch&gt; to &lt;remote&gt;</tspan><tspan
+           id="tspan3255"
+           sodipodi:role="line"
+           x="623.18311"
+           y="516.18066">-u &lt;remote&gt; &lt;branch&gt; pushes and remembers settings </tspan></text>
+    </g>
+    <g
+       id="g3188"
+       transform="matrix(1.3642461,0,0,1.3642461,-555.42193,143.60775)">
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="460.62991"
+         y="485.42987"
+         id="text3257"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3259"
+           x="460.62991"
+           y="485.42987"> </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3261"
+         y="491.22009"
+         x="531.34424"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="491.22009"
+           x="531.34424"
+           id="tspan3263"
+           sodipodi:role="line">  </tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.30660695;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3265"
+         width="61.015198"
+         height="37.598427"
+         x="427.96118"
+         y="472.63458" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="427.96118"
+         y="500.98108"
+         id="text3267"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3269"
+           x="427.96118"
+           y="500.98108">pull</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="518.96228"
+         y="468.47791"
+         id="text3271"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3273"
+           x="518.96228"
+           y="468.47791">  </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="488.97638"
+         y="486.8078"
+         id="text3275"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan3277"
+           sodipodi:role="line"
+           x="488.97638"
+           y="486.8078"
+           style="font-size:12px;line-height:100%">pull updates</tspan><tspan
+           sodipodi:role="line"
+           x="488.97638"
+           y="498.8078"
+           style="font-size:12px;line-height:100%"
+           id="tspan3279">to local repo</tspan></text>
+    </g>
+    <g
+       id="g3377"
+       transform="matrix(1.3642461,0,0,1.3642461,-34.509083,-332.62639)">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2136842;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect3293"
+         width="60.236214"
+         height="37.598427"
+         x="46.062996"
+         y="946.63531" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="46.062996"
+         y="974.98181"
+         id="text3295"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3297"
+           x="46.062996"
+           y="974.98181">diff</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="200.06462"
+         y="942.47864"
+         id="text3299"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3301"
+           x="200.06462"
+           y="942.47864">  </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="78.73172"
+         y="959.4306"
+         id="text3285"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3287"
+           x="78.73172"
+           y="959.4306"> </tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3289"
+         y="965.22083"
+         x="149.446"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="965.22083"
+           x="149.446"
+           id="tspan3291"
+           sodipodi:role="line">  </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="106.29921"
+         y="960.80853"
+         id="text3303"
+         sodipodi:linespacing="100%"><tspan
+           id="tspan3305"
+           sodipodi:role="line"
+           x="106.29921"
+           y="960.80853"
+           style="font-size:12px;line-height:100%">compare two</tspan><tspan
+           sodipodi:role="line"
+           x="106.29921"
+           y="972.80853"
+           style="font-size:12px;line-height:100%"
+           id="tspan3307">commits</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3309"
+         y="990.82941"
+         x="45.909683"
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="990.82941"
+           x="45.909683"
+           sodipodi:role="line"
+           id="tspan3315">difftool instead of diff opens conflicting files </tspan><tspan
+           y="1002.0794"
+           x="45.909683"
+           sodipodi:role="line"
+           id="tspan3317">       in your diff program of choice</tspan></text>
+    </g>
+  </g>
+</svg>
